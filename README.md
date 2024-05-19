@@ -7,16 +7,16 @@
 
 #### My 🧰 ?
 ```javascript
-const anmol = {
+const Haibin = {
     pronouns: "She" | "Her",
     code: ["R", "Python", "MATLAB", "HTML", "CSS"],
     askMeAbout: ["Metabolomics Data Analysis", "Data Visualization", "3d modeling", "Shiny APP Design"],
     technologies: {
         devOps: ["AWS", "Docker🐳"],
-        Bioinformatics Tools: ["QIIME2", "XCMS"],
-        Designed Shiny APP: ["WorklistsGenerator"]
+        BioinformaticsTools: ["QIIME2", "XCMS"],
+        DesignedShinyAPP: ["WorklistsGenerator"]
     },
-    Omics Data: ["Metabolomics", "Proteomics", "Exposomics", "Transcriptomics"],
+    OmicsData: ["Metabolomics", "Proteomics", "Exposomics", "Transcriptomics"],
     currentFocus: "Metabolomics",
     funFact: "Tiny molecules make a big difference. Genomics tell you what you might have while metabolomics tell you what you do have!" ,
     weakness: "Multitasking"
@@ -30,7 +30,7 @@ const anmol = {
 12:00 - 16:00 PM         ██████░░░░░░░░░░░░░░░░░░░   20 %
 16:00 - 21:00 PM         ███░░░░░░░░░░░░░░░░░░░░░░   10 % 
 ```
-**MultiOmics Current Focus** 
+**Multi-Omics Current Focus** 
 ```text
 Genomics                 ░░░░░░░░░░░░░░░░░░░░░░░░░    0 %
 Transcriptomics          ░░░░░░░░░░░░░░░░░░░░░░░░░    0 %
