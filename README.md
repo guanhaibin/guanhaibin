@@ -14,10 +14,10 @@ const Haibin = {
     technologies: {
         devOps: ["AWS", "Docker🐳"],
         BioinformaticsTools: ["QIIME2", "XCMS"],
-        DesignedShinyAPP: ["WorklistsGenerator"]
+        DesignedRShinyAPP: ["WorklistsGenerator","BatCheck"]
     },
     OmicsData: ["Metabolomics", "Proteomics", "Exposomics", "Transcriptomics"],
-    currentFocus: "Metabolomics",
+    currentFocus: "Metabolomics","Exposomics"
     funFact: "Tiny molecules make a big difference. Genomics tell you what you might have while metabolomics tell you what you do have!" ,
     weakness: "Multitasking"
 };
@@ -34,9 +34,9 @@ const Haibin = {
 ```text
 Genomics                 ░░░░░░░░░░░░░░░░░░░░░░░░░    0 %
 Transcriptomics          ░░░░░░░░░░░░░░░░░░░░░░░░░    0 %
-Proteomics               ██░░░░░░░░░░░░░░░░░░░░░░░   10 %
+Proteomics               █░░░░░░░░░░░░░░░░░░░░░░░░    5 %
 Metabolomics             █████████████████░░░░░░░░   70 %
-Exposomics               ████░░░░░░░░░░░░░░░░░░░░░   20 %
+Exposomics               ██████░░░░░░░░░░░░░░░░░░░   25 %
 ```
 
 - I’m looking to collaborate on more reliable untargeted metabolomics data preprocessing workflows, mixture analysis, and need help with multi-omics analysis strategies. I'm still training myself to translate complex high-throughput biomedical data into sparkling, comprehensible insights using machine learning. Bioinformatics is indeed fascinating.
