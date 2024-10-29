@@ -4,7 +4,7 @@
 <p> <em>Thanks for stopping by my Github Profile!</em></p>
 <p><em>I'm a Bioinformatician working at the <a href="https://www.petrickexposomelab.com/"> PRIME</a> Lab at Icahn School of Medicine at Mount Sinai in NYC.<br> Currently working from home <img src="https://media.giphy.com/media/zPR4BZ9gBXmnj9mDKt/giphy.gif?cid=ecf05e478r0d72qa6en3avnrlq5lkvvglqcspoe9lf1kn09m&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> </em></p>
 
-![Alt Text](img/Tryptophan.gif)
+<p><em><img src="img/Tryptophan.gif" width="60"></em></p>
 
 #### My 🧰 ?
 ```javascript
