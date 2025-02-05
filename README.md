@@ -39,6 +39,9 @@ Proteomics               [█-------------------]   5%
 Metabolomics             [██████████████------]   70%
 Exposomics               [█████---------------]   25%  
 ```
+
+[![Haibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanhaibin)](https://github.com/guanhaibin/github-readme-stats)
+
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guanhaibin&theme=dracula)](https://github.com/guanhaibin/github-readme-activity-graph)
 
 - I’m looking to collaborate on more reliable untargeted metabolomics data preprocessing workflows, mixture analysis, and need help with multi-omics analysis strategies. I'm still training myself to translate complex high-throughput biomedical data into sparkling, comprehensible insights using machine learning. Bioinformatics is indeed fascinating.
