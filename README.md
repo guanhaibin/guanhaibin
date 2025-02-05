@@ -27,17 +27,17 @@ const Haibin = {
 **I love working in the early morning** 
 
 ```text
-5:00  - 11:00 AM         ████████████████░░░░░░░░░   70 % 
-12:00 - 16:00 PM         ██████░░░░░░░░░░░░░░░░░░░   20 %
-16:00 - 21:00 PM         ███░░░░░░░░░░░░░░░░░░░░░░   10 % 
+5:00  - 11:00 AM         [██████████████------]   70%
+12:00 - 16:00 PM         [████----------------]   20%  
+16:00 - 21:00 PM         [██------------------]   10% 
 ```
 **Multi-Omics Current Focus** 
 ```text
-Genomics                 ░░░░░░░░░░░░░░░░░░░░░░░░░    0 %
-Transcriptomics          ░░░░░░░░░░░░░░░░░░░░░░░░░    0 %
-Proteomics               █░░░░░░░░░░░░░░░░░░░░░░░░    5 %
-Metabolomics             █████████████████░░░░░░░░   70 %
-Exposomics               ██████░░░░░░░░░░░░░░░░░░░   25 %
+Genomics                 [--------------------]   0%  
+Transcriptomics          [--------------------]   0% 
+Proteomics               [█-------------------]   5% 
+Metabolomics             [██████████████------]   70%
+Exposomics               [█████---------------]   25%  
 ```
 
 - I’m looking to collaborate on more reliable untargeted metabolomics data preprocessing workflows, mixture analysis, and need help with multi-omics analysis strategies. I'm still training myself to translate complex high-throughput biomedical data into sparkling, comprehensible insights using machine learning. Bioinformatics is indeed fascinating.
