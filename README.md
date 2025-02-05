@@ -40,7 +40,6 @@ Metabolomics             [██████████████------]   70
 Exposomics               [█████---------------]   25%  
 ```
 
-[![Haibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanhaibin)](https://github.com/guanhaibin/github-readme-stats)
 
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guanhaibin&theme=dracula)](https://github.com/guanhaibin/github-readme-activity-graph)
 
