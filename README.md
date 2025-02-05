@@ -2,7 +2,7 @@
 <h2> <img src="https://media0.giphy.com/media/RkN0K0MEfEcc34HeZ4/giphy.webp?cid=ecf05e47vzl05eurxzuqe3pcvrs0tbbofyxo7do6waq6m01w&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="100"> Hi, I'm Haibin <img src="img/Serotonin.gif" width="200"></h2>
 
 <p> <em>Thanks for stopping by my Github Profile!</em></p>
-<p><em>I'm a Bioinformatician working at the <a href="https://www.petrickexposomelab.com/"> PRIME</a> Lab at Icahn School of Medicine at Mount Sinai in NYC.<br> Currently working from home <img src="https://media.giphy.com/media/zPR4BZ9gBXmnj9mDKt/giphy.gif?cid=ecf05e478r0d72qa6en3avnrlq5lkvvglqcspoe9lf1kn09m&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> </em></p>
+<p><em>I'm a Biomedical Data Analyst working at the <a href="https://www.petrickexposomelab.com/"> PRIME</a> Lab at Icahn School of Medicine at Mount Sinai in NYC.<br> Currently working from home <img src="https://media.giphy.com/media/zPR4BZ9gBXmnj9mDKt/giphy.gif?cid=ecf05e478r0d72qa6en3avnrlq5lkvvglqcspoe9lf1kn09m&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> </em></p>
 
 
 
@@ -11,7 +11,7 @@
 const Haibin = {
     pronouns: "She" | "Her",
     code: ["R", "Python", "MATLAB", "HTML", "CSS"],
-    askMeAbout: ["Metabolomics Data Analysis", "Data Visualization", "3d modeling", "Shiny APP Design"],
+    askMeAbout: ["Metabolomics Data Analysis", "Data Visualization", "3D Modeling", "Shiny APP Design"],
     technologies: {
         devOps: ["AWS", "Docker🐳"],
         BioinformaticsTools: ["QIIME2", "XCMS"],
