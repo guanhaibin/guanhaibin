@@ -46,7 +46,7 @@ Exposomics               [█████---------------]   25%
 - I'm continually training myself to interpret complex high-throughput biomedical data into clear and meaningful insights. This process involves several stages, including reliable omics data preprocessing workflows, mixture analysis/high-dimensional analysis, and multi-omics integration strategies. Bioinformatics is truly fascinating!
 - In my free time, I love experimenting with data visualization or getting lost in 3D modeling with Blender. It’s a fun way to mix creativity with tech! You can check out some of my 3D artwork [here](https://guanhaibin.github.io/hobbies/)!.
 
-<a href="https://clustrmaps.com/site/1c51z"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=hwt3Wt0gxfhfGAWylouOF0cnnghZJSDSmWRaU1U6q0M&cl=ffffff" /></a>
+
 
 Feel free to reach out!
 [![Linkedin: Haibin](https://img.shields.io/badge/-Haibin-lightblue?style=square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/haibin-guan/)](https://www.linkedin.com/in/haibin-guan/)
