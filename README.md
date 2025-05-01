@@ -50,6 +50,4 @@ Exposomics               [█████---------------]   25%
 
 Feel free to reach out!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haibin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haibin-guan/)
-
-
 [![website](https://img.shields.io/badge/-Haibin-lightblue?&style=square&logo=Google-Chrome&logoColor=black&link=https://guanhaibin.github.io/home/)](https://guanhaibin.github.io/home/)
