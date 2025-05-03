@@ -10,10 +10,9 @@
 ```R
 Haibin <- list(
     pronouns = c("She", "Her"),
-    code = c("R", "Python", "MATLAB", "HTML", "CSS"),
+    code = c("R", "HTML", "CSS", "Python", "MATLAB"),
     askMeAbout = c("Metabolomics Data Analysis", "Data Visualization", "3D Modeling", "Shiny APP Design"),
     technologies = list(
-        devOps = c("AWS", "Docker🐳"),
         BioinformaticsTools = c("QIIME2", "XCMS","Cytoscape"),
         DesignedRShinyAPP = c("WorklistsGenerator", "BatCheck")
     ),
