@@ -31,11 +31,11 @@ Haibin <- list(
 ```
 **Multi-Omics Current Focus** 
 ```text
-Genomics                 [--------------------]   0%  
+Genomics                 [█-------------------]   5%  
 Transcriptomics          [█-------------------]   5% 
 Proteomics               [█-------------------]   5% 
-Metabolomics             [█████████████-------]   65%
-Exposomics               [█████---------------]   25%  
+Metabolomics             [█████████-----------]   45%
+Exposomics               [███████-------------]   40%  
 ```
 
 
