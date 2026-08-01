@@ -11,7 +11,7 @@
 Haibin <- list(
     pronouns = c("She", "Her"),
     code = c("R", "HTML", "CSS", "Python", "MATLAB"),
-    askMeAbout = c("Metabolomics Data Analysis", "Data Visualization", "3D Modeling", "Shiny APP Design"),
+    askMeAbout = c("Multi-Omics Data Analysis", "Data Visualization", "3D Modeling", "Shiny APP Design"),
     technologies = list(
         shiny_apps_designed = c("WorklistsGenerator", "BatCheck")
     ),
