@@ -6,8 +6,8 @@
   <!-- white square background -->
   <rect x="0" y="0" width="400" height="400" fill="#ffffff"/>
 
-  <!-- taupe circle background -->
-  <circle cx="200" cy="200" r="182" fill="#c7c0b7"/>
+  <!-- circle background: none (white square shows through) -->
+  <circle cx="200" cy="200" r="182" fill="#ffffff"/>
 
   <g clip-path="url(#ring)">
     <!-- gentle bob -->
@@ -75,6 +75,6 @@
     </g>
   </g>
 
-  <!-- pink ring -->
-  <circle cx="200" cy="200" r="184" fill="none" stroke="#a4cedb" stroke-width="13"/>
+  <!-- ring: laptop border color -->
+  <circle cx="200" cy="200" r="181" fill="none" stroke="#2f2a3c" stroke-width="4"/>
 </svg>
