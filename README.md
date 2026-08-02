@@ -7,7 +7,7 @@
 
 
 
-<img src="img/toolbox.SVG" width="100"> 
+<svg src="img/toolbox.SVG" width="100"> 
 
 ```R
 Haibin <- list(
@@ -23,7 +23,7 @@ Haibin <- list(
     weakness = "Multitasking"
 )
 ```
-<img src="img/schedule.SVG" width="800"> 
+<svg src="img/schedule.SVG" width="800"> 
 
 
 **I love working in the early morning** 
