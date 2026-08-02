@@ -7,7 +7,7 @@
 
 
 
-<h2> <img src="img/toolbox.SVG" width="150"> My toolxbox</h2>
+<h4> <img src="img/toolbox.SVG" width="50"> My toolxbox</h4>
 
 ```R
 Haibin <- list(
