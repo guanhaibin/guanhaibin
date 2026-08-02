@@ -1,0 +1,64 @@
+<svg width="100%" viewBox="0 0 680 340" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Two animated labeled bar-chart blocks: daily focus by time and multi-omics focus</title>
+  <desc>Horizontal progress bars that grow from zero, showing morning focus and multi-omics focus percentages.</desc>
+
+  <text x="30" y="34" class="th" style="font-weight:500">I love working in the early morning</text>
+
+  <text x="30" y="70" class="t" style="font-family:var(--font-mono)">6:00 – 11:00 AM</text>
+  <rect x="250" y="59" width="300" height="16" rx="3" fill="var(--surface-1)" stroke="var(--border)" stroke-width="1"/>
+  <rect x="250" y="59" width="0" height="16" rx="3" fill="var(--text-primary)">
+    <animate attributeName="width" from="0" to="210" dur="0.9s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="570" y="70" class="t" style="font-family:var(--font-mono)">70%</text>
+
+  <text x="30" y="98" class="t" style="font-family:var(--font-mono)">12:00 – 16:00 PM</text>
+  <rect x="250" y="87" width="300" height="16" rx="3" fill="var(--surface-1)" stroke="var(--border)" stroke-width="1"/>
+  <rect x="250" y="87" width="0" height="16" rx="3" fill="var(--text-primary)">
+    <animate attributeName="width" from="0" to="60" dur="0.9s" begin="0.25s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="570" y="98" class="t" style="font-family:var(--font-mono)">20%</text>
+
+  <text x="30" y="126" class="t" style="font-family:var(--font-mono)">16:00 – 21:00 PM</text>
+  <rect x="250" y="115" width="300" height="16" rx="3" fill="var(--surface-1)" stroke="var(--border)" stroke-width="1"/>
+  <rect x="250" y="115" width="0" height="16" rx="3" fill="var(--text-primary)">
+    <animate attributeName="width" from="0" to="30" dur="0.9s" begin="0.4s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="570" y="126" class="t" style="font-family:var(--font-mono)">10%</text>
+
+  <text x="30" y="176" class="th" style="font-weight:500">Multi-omics current focus</text>
+
+  <text x="30" y="212" class="t" style="font-family:var(--font-mono)">Genomics</text>
+  <rect x="250" y="201" width="300" height="16" rx="3" fill="var(--surface-1)" stroke="var(--border)" stroke-width="1"/>
+  <rect x="250" y="201" width="0" height="16" rx="3" fill="var(--text-primary)">
+    <animate attributeName="width" from="0" to="15" dur="0.9s" begin="0.55s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="570" y="212" class="t" style="font-family:var(--font-mono)">5%</text>
+
+  <text x="30" y="240" class="t" style="font-family:var(--font-mono)">Transcriptomics</text>
+  <rect x="250" y="229" width="300" height="16" rx="3" fill="var(--surface-1)" stroke="var(--border)" stroke-width="1"/>
+  <rect x="250" y="229" width="0" height="16" rx="3" fill="var(--text-primary)">
+    <animate attributeName="width" from="0" to="15" dur="0.9s" begin="0.7s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="570" y="240" class="t" style="font-family:var(--font-mono)">5%</text>
+
+  <text x="30" y="268" class="t" style="font-family:var(--font-mono)">Proteomics</text>
+  <rect x="250" y="257" width="300" height="16" rx="3" fill="var(--surface-1)" stroke="var(--border)" stroke-width="1"/>
+  <rect x="250" y="257" width="0" height="16" rx="3" fill="var(--text-primary)">
+    <animate attributeName="width" from="0" to="15" dur="0.9s" begin="0.85s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="570" y="268" class="t" style="font-family:var(--font-mono)">5%</text>
+
+  <text x="30" y="296" class="t" style="font-family:var(--font-mono)">Metabolomics</text>
+  <rect x="250" y="285" width="300" height="16" rx="3" fill="var(--surface-1)" stroke="var(--border)" stroke-width="1"/>
+  <rect x="250" y="285" width="0" height="16" rx="3" fill="var(--text-primary)">
+    <animate attributeName="width" from="0" to="150" dur="0.9s" begin="1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="570" y="296" class="t" style="font-family:var(--font-mono)">50%</text>
+
+  <text x="30" y="324" class="t" style="font-family:var(--font-mono)">Exposomics</text>
+  <rect x="250" y="313" width="300" height="16" rx="3" fill="var(--surface-1)" stroke="var(--border)" stroke-width="1"/>
+  <rect x="250" y="313" width="0" height="16" rx="3" fill="var(--text-primary)">
+    <animate attributeName="width" from="0" to="105" dur="0.9s" begin="1.15s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="570" y="324" class="t" style="font-family:var(--font-mono)">35%</text>
+</svg>
