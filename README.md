@@ -23,6 +23,8 @@ Haibin <- list(
     weakness = "Multitasking"
 )
 ```
+<img src="img/schedule.SVG" width="800"> 
+
 
 **I love working in the early morning** 
 
