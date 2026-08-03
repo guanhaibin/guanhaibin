@@ -7,7 +7,7 @@
 
 
 
-<img src="img/toolbox.SVG" width="100"> 
+<img src="img/toolbox.SVG" width="60"> 
 
 ```R
 Haibin <- list(
