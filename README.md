@@ -1,47 +1,10 @@
 
 
-<h2> <img src="img/profile.SVG" width="150"> Hi, I'm Haibin</h2>
-
-<p> <em>Thanks for stopping by my Github Profile!</em></p>
-<p><em>I'm a Computational Biologist working at the <a href="https://www.petrickexposomelab.com/"> PRIME</a> Lab at Icahn School of Medicine at Mount Sinai in NYC.</em></p>
+<img src="img/profile.SVG" width="150">
 
 
 
-<img src="img/toolbox.SVG" width="60"> 
-
-```R
-Haibin <- list(
-    pronouns = c("She", "Her"),
-    code = c("R", "HTML", "CSS", "Python", "MATLAB"),
-    askMeAbout = c("Multi-Omics Data Analysis", "Data Visualization", "3D Modeling", "Shiny APP Design"),
-    technologies = list(
-        shiny_apps_designed = c("WorklistsGenerator", "BatCheck")
-    ),
-    omics_data = c("Metabolomics", "Proteomics", "Exposomics", "Transcriptomics"),
-    current_focus = c("Metabolomics", "Exposomics"),
-    fun_fact = "Tiny molecules make a big difference. Genomics tells you what you might have, while metabolomics tells you what you do have.",
-    weakness = "Multitasking"
-)
-```
-
-
-
-**I love working in the early morning** 
-
-```text
-6:00  - 11:00 AM         [█████████████-------]   60%
-12:00 - 16:00 PM         [█████---------------]   30%  
-16:00 - 21:00 PM         [██------------------]   10% 
-```
-**Multi-Omics Current Focus** 
-```text
-Genomics                 [█-------------------]   5%  
-Transcriptomics          [█-------------------]   5% 
-Proteomics               [█-------------------]   5% 
-Metabolomics             [█████████-----------]   45%
-Exposomics               [███████-------------]   40%  
-```
-
+<img src="img/skills.SVG" width="1000"> 
 
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guanhaibin&theme=github-compact)](https://github.com/guanhaibin/github-readme-activity-graph)
 
