@@ -1,101 +1,103 @@
-<svg viewBox="0 0 760 776" xmlns="http://www.w3.org/2000/svg" role="img">
-  <title>Haibin skills card with focus bar charts, wide layout</title>
-  <desc>Wide profile card with pronouns, languages, expertise on one row, Shiny apps, omics focus, a fun fact, a weakness, plus bar charts for working hours and multi-omics focus.</desc>
-  <g font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
-    <rect x="8" y="8" width="744" height="760" rx="16" fill="#ffffff" stroke="#e2e4e8" stroke-width="1"/>
-
-    <text x="32" y="52" font-size="27" font-weight="500" fill="#211f2b">Haibin</text>
-    <rect x="128" y="34" width="86" height="23" rx="11.5" fill="#f5f7f9"/>
-    <text x="171" y="50" font-size="12.5" fill="#4a9a5f" text-anchor="middle">she / her</text>
-    <line x1="32" y1="70" x2="728" y2="70" stroke="#e6e8ec" stroke-width="1"/>
-
-    <text x="32" y="96" font-size="11" letter-spacing="1.6" fill="#8b88a0">CODE</text>
-    <g font-size="13.5" fill="#3f4a52">
-      <rect x="32" y="106" width="34" height="27" rx="13.5" fill="#f5f7f9"/><text x="49" y="124" text-anchor="middle">R</text>
-      <rect x="74" y="106" width="56" height="27" rx="13.5" fill="#f5f7f9"/><text x="102" y="124" text-anchor="middle">HTML</text>
-      <rect x="138" y="106" width="50" height="27" rx="13.5" fill="#f5f7f9"/><text x="163" y="124" text-anchor="middle">CSS</text>
-      <rect x="196" y="106" width="66" height="27" rx="13.5" fill="#f5f7f9"/><text x="229" y="124" text-anchor="middle">Python</text>
-      <rect x="270" y="106" width="72" height="27" rx="13.5" fill="#f5f7f9"/><text x="306" y="124" text-anchor="middle">MATLAB</text>
-    </g>
-
-    <text x="32" y="160" font-size="11" letter-spacing="1.6" fill="#8b88a0">ASK ME ABOUT</text>
-    <g font-size="13.5" fill="#3f4a52">
-      <rect x="32" y="170" width="206" height="28" rx="14" fill="#f5f7f9"/><text x="135" y="188" text-anchor="middle">Multi-Omics Data Analysis</text>
-      <rect x="246" y="170" width="152" height="28" rx="14" fill="#f5f7f9"/><text x="322" y="188" text-anchor="middle">Data Visualization</text>
-      <rect x="406" y="170" width="106" height="28" rx="14" fill="#f5f7f9"/><text x="459" y="188" text-anchor="middle">3D Modeling</text>
-      <rect x="520" y="170" width="146" height="28" rx="14" fill="#f5f7f9"/><text x="593" y="188" text-anchor="middle">Shiny App Design</text>
-    </g>
-
-    <text x="32" y="224" font-size="11" letter-spacing="1.6" fill="#8b88a0">OMICS DATA</text>
-    <circle cx="612" cy="220" r="4" fill="#4AC26B"/>
-    <text x="624" y="224" font-size="11" fill="#8b88a0">current focus</text>
+<svg viewBox="0 0 760 800" width="760" height="800" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Haibin — skills card</title>
+  <desc>Animated profile card: pronouns, bio, code, expertise, omics focus, Shiny apps, a fun fact, and bar charts for working hours and multi-omics focus.</desc>
+  <rect x="8" y="8" width="744" height="784" fill="#ffffff" stroke="#e3e6ea" stroke-width="1"/>
+  <g font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0s" dur="0.6s" fill="freeze"/>
+    <text x="32" y="48" font-size="27" font-weight="500" fill="#1b1f28">I'm Haibin</text>
+    <rect x="188" y="30" width="86" height="23" rx="11.5" fill="#e9f4ec"/>
+    <text x="231" y="46" font-size="12.5" fill="#3f8a52" text-anchor="middle">she / her</text>
+    <text x="32" y="74" font-size="14" font-style="italic" fill="#57606a">I'm a Computational Biologist working at the <tspan fill="#4a9a5f" font-style="normal">PRIME</tspan> Lab at Icahn</text>
+    <text x="32" y="93" font-size="14" font-style="italic" fill="#57606a">School of Medicine at Mount Sinai in NYC.</text>
+    <line x1="32" y1="110" x2="728" y2="110" stroke="#e8eaee" stroke-width="1"/>
+    <text x="32" y="138" font-size="11" letter-spacing="1.6" fill="#6e7781">CODE</text>
     <g font-size="13.5">
-      <rect x="32" y="234" width="120" height="28" rx="14" fill="#4AC26B"/><text x="92" y="252" text-anchor="middle" fill="#182229" font-weight="500">Metabolomics</text>
-      <rect x="160" y="234" width="102" height="28" rx="14" fill="#f5f7f9"/><text x="211" y="252" text-anchor="middle" fill="#3f4a52">Proteomics</text>
-      <rect x="270" y="234" width="110" height="28" rx="14" fill="#4AC26B"/><text x="325" y="252" text-anchor="middle" fill="#182229" font-weight="500">Exposomics</text>
-      <rect x="388" y="234" width="140" height="28" rx="14" fill="#f5f7f9"/><text x="458" y="252" text-anchor="middle" fill="#3f4a52">Transcriptomics</text>
+      <rect x="32" y="148" width="34" height="28" rx="14" fill="#f0f2f5"/>
+      <text x="49.0" y="166" text-anchor="middle" fill="#24292f">R</text>
+      <rect x="74" y="148" width="56" height="28" rx="14" fill="#f0f2f5"/>
+      <text x="102.0" y="166" text-anchor="middle" fill="#24292f">HTML</text>
+      <rect x="138" y="148" width="50" height="28" rx="14" fill="#f0f2f5"/>
+      <text x="163.0" y="166" text-anchor="middle" fill="#24292f">CSS</text>
+      <rect x="196" y="148" width="66" height="28" rx="14" fill="#f0f2f5"/>
+      <text x="229.0" y="166" text-anchor="middle" fill="#24292f">Python</text>
+      <rect x="270" y="148" width="72" height="28" rx="14" fill="#f0f2f5"/>
+      <text x="306.0" y="166" text-anchor="middle" fill="#24292f">MATLAB</text>
     </g>
-
-    <text x="32" y="286" font-size="11" letter-spacing="1.6" fill="#8b88a0">SHINY APPS</text>
-    <g font-size="13.5" fill="#8a6a3c">
-      <rect x="32" y="296" width="176" height="28" rx="14" fill="#f5f7f9"/><text x="120" y="314" text-anchor="middle">WorklistsGenerator</text>
-      <rect x="216" y="296" width="98" height="28" rx="14" fill="#f5f7f9"/><text x="265" y="314" text-anchor="middle">BatCheck</text>
+    <text x="32" y="198" font-size="11" letter-spacing="1.6" fill="#6e7781">ASK ME ABOUT</text>
+    <g font-size="13.5">
+      <rect x="32" y="208" width="206" height="28" rx="14" fill="#f0f2f5"/>
+      <text x="135.0" y="226" text-anchor="middle" fill="#24292f">Multi-Omics Data Analysis</text>
+      <rect x="246" y="208" width="152" height="28" rx="14" fill="#f0f2f5"/>
+      <text x="322.0" y="226" text-anchor="middle" fill="#24292f">Data Visualization</text>
+      <rect x="406" y="208" width="106" height="28" rx="14" fill="#f0f2f5"/>
+      <text x="459.0" y="226" text-anchor="middle" fill="#24292f">3D Modeling</text>
+      <rect x="520" y="208" width="146" height="28" rx="14" fill="#f0f2f5"/>
+      <text x="593.0" y="226" text-anchor="middle" fill="#24292f">Shiny App Design</text>
     </g>
-
-    <text x="32" y="350" font-size="11" letter-spacing="1.6" fill="#8b88a0">FUN FACT</text>
-    <rect x="32" y="358" width="696" height="66" rx="10" fill="#f5f7f9"/>
-    <rect x="32" y="358" width="4" height="66" fill="#d99a63"/>
-    <text x="52" y="386" font-size="13.5" font-style="italic" font-family="Georgia, 'Times New Roman', serif" fill="#4a4756">Tiny molecules make a big difference. Genomics tells you what you might have,</text>
-    <text x="52" y="406" font-size="13.5" font-style="italic" font-family="Georgia, 'Times New Roman', serif" fill="#4a4756">while metabolomics tells you what you do have.</text>
-
-    <text x="32" y="450" font-size="12.5" fill="#807d92">Weakness — multitasking</text>
-
-    <line x1="32" y1="474" x2="728" y2="474" stroke="#e6e8ec" stroke-width="1"/>
-
-    <text x="32" y="502" font-size="14" font-weight="500" fill="#211f2b">I love working in the early morning</text>
-    <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13">
-      <text x="32" y="532" fill="#5c6870">6:00 – 11:00 AM</text>
-      <rect x="200" y="519" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
-      <rect x="200" y="519" width="336" height="18" rx="9" fill="#4AC26B"/>
-      <text x="720" y="532" text-anchor="end" fill="#3f4a52">70%</text>
-
-      <text x="32" y="558" fill="#5c6870">12:00 – 16:00 PM</text>
-      <rect x="200" y="545" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
-      <rect x="200" y="545" width="96" height="18" rx="9" fill="#4AC26B"/>
-      <text x="720" y="558" text-anchor="end" fill="#3f4a52">20%</text>
-
-      <text x="32" y="584" fill="#5c6870">16:00 – 21:00 PM</text>
-      <rect x="200" y="571" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
-      <rect x="200" y="571" width="48" height="18" rx="9" fill="#4AC26B"/>
-      <text x="720" y="584" text-anchor="end" fill="#3f4a52">10%</text>
+    <text x="32" y="260" font-size="11" letter-spacing="1.6" fill="#6e7781">OMICS DATA</text>
+    <circle cx="612" cy="256" r="4" fill="#4a9a5f"><animate attributeName="opacity" values="1;0.3;1" dur="1.9s" repeatCount="indefinite"/><animate attributeName="r" values="4;5;4" dur="1.9s" repeatCount="indefinite"/></circle>
+    <text x="624" y="260" font-size="11" fill="#6e7781">current focus</text>
+    <g font-size="13.5">
+      <rect x="32" y="270" width="120" height="28" rx="14" fill="#4a9a5f"><animate attributeName="fill" values="#4a9a5f;#59ac6e;#4a9a5f" dur="2.8s" begin="1.6s" repeatCount="indefinite"/></rect>
+      <text x="92.0" y="288" text-anchor="middle" fill="#ffffff" font-weight="500">Metabolomics</text>
+      <rect x="160" y="270" width="102" height="28" rx="14" fill="#f0f2f5"/>
+      <text x="211.0" y="288" text-anchor="middle" fill="#24292f">Proteomics</text>
+      <rect x="270" y="270" width="110" height="28" rx="14" fill="#4a9a5f"><animate attributeName="fill" values="#4a9a5f;#59ac6e;#4a9a5f" dur="2.8s" begin="1.6s" repeatCount="indefinite"/></rect>
+      <text x="325.0" y="288" text-anchor="middle" fill="#ffffff" font-weight="500">Exposomics</text>
+      <rect x="388" y="270" width="140" height="28" rx="14" fill="#f0f2f5"/>
+      <text x="458.0" y="288" text-anchor="middle" fill="#24292f">Transcriptomics</text>
     </g>
-
-    <text x="32" y="616" font-size="14" font-weight="500" fill="#211f2b">Multi-omics current focus</text>
-    <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13">
-      <text x="32" y="648" fill="#5c6870">Genomics</text>
-      <rect x="200" y="635" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
-      <rect x="200" y="635" width="24" height="18" rx="9" fill="#4AC26B"/>
-      <text x="720" y="648" text-anchor="end" fill="#3f4a52">5%</text>
-
-      <text x="32" y="674" fill="#5c6870">Transcriptomics</text>
-      <rect x="200" y="661" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
-      <rect x="200" y="661" width="24" height="18" rx="9" fill="#4AC26B"/>
-      <text x="720" y="674" text-anchor="end" fill="#3f4a52">5%</text>
-
-      <text x="32" y="700" fill="#5c6870">Proteomics</text>
-      <rect x="200" y="687" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
-      <rect x="200" y="687" width="24" height="18" rx="9" fill="#4AC26B"/>
-      <text x="720" y="700" text-anchor="end" fill="#3f4a52">5%</text>
-
-      <text x="32" y="726" fill="#5c6870">Metabolomics</text>
-      <rect x="200" y="713" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
-      <rect x="200" y="713" width="240" height="18" rx="9" fill="#4AC26B"/>
-      <text x="720" y="726" text-anchor="end" fill="#3f4a52">50%</text>
-
-      <text x="32" y="752" fill="#5c6870">Exposomics</text>
-      <rect x="200" y="739" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
-      <rect x="200" y="739" width="168" height="18" rx="9" fill="#4AC26B"/>
-      <text x="720" y="752" text-anchor="end" fill="#3f4a52">35%</text>
+    <text x="32" y="322" font-size="11" letter-spacing="1.6" fill="#6e7781">SHINY APPS</text>
+    <g font-size="13.5">
+      <rect x="32" y="332" width="176" height="28" rx="14" fill="#f0f2f5"/>
+      <text x="120.0" y="350" text-anchor="middle" fill="#24292f">WorklistsGenerator</text>
+      <rect x="216" y="332" width="98" height="28" rx="14" fill="#f0f2f5"/>
+      <text x="265.0" y="350" text-anchor="middle" fill="#24292f">BatCheck</text>
+    </g>
+    <text x="32" y="384" font-size="11" letter-spacing="1.6" fill="#6e7781">FUN FACT</text>
+    <rect x="32" y="392" width="696" height="60" rx="10" fill="#f5f7f9"/>
+    <rect x="32" y="392" width="4" height="60" fill="#b0a598"/>
+    <text x="52" y="418" font-size="13.5" font-style="italic" font-family="Georgia, Times New Roman, serif" fill="#3a4048">Tiny molecules make a big difference. Genomics tells you what you might have,</text>
+    <text x="52" y="438" font-size="13.5" font-style="italic" font-family="Georgia, Times New Roman, serif" fill="#3a4048">while metabolomics tells you what you do have.</text>
+    <text x="32" y="476" font-size="12.5" fill="#768390">Weakness — multitasking</text>
+    <line x1="32" y1="498" x2="728" y2="498" stroke="#e8eaee" stroke-width="1"/>
+    <text x="32" y="526" font-size="14" font-weight="500" fill="#1b1f28">I love working in the early morning</text>
+    <g font-family="ui-monospace, SF Mono, Menlo, Consolas, monospace" font-size="13">
+      <text x="32" y="552" fill="#57606a">6:00 – 11:00 AM</text>
+      <rect x="200" y="539" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
+      <rect x="200" y="539" width="0" height="18" rx="9" fill="#4a9a5f"><animate attributeName="width" from="0" to="336" begin="0.40s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.75 0.25 1"/></rect>
+      <text x="720" y="552" text-anchor="end" fill="#24292f">70%</text>
+      <text x="32" y="578" fill="#57606a">12:00 – 16:00 PM</text>
+      <rect x="200" y="565" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
+      <rect x="200" y="565" width="0" height="18" rx="9" fill="#4a9a5f"><animate attributeName="width" from="0" to="96" begin="0.52s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.75 0.25 1"/></rect>
+      <text x="720" y="578" text-anchor="end" fill="#24292f">20%</text>
+      <text x="32" y="604" fill="#57606a">16:00 – 21:00 PM</text>
+      <rect x="200" y="591" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
+      <rect x="200" y="591" width="0" height="18" rx="9" fill="#4a9a5f"><animate attributeName="width" from="0" to="48" begin="0.64s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.75 0.25 1"/></rect>
+      <text x="720" y="604" text-anchor="end" fill="#24292f">10%</text>
+    </g>
+    <text x="32" y="638" font-size="14" font-weight="500" fill="#1b1f28">Multi-omics current focus</text>
+    <g font-family="ui-monospace, SF Mono, Menlo, Consolas, monospace" font-size="13">
+      <text x="32" y="664" fill="#57606a">Genomics</text>
+      <rect x="200" y="651" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
+      <rect x="200" y="651" width="0" height="18" rx="9" fill="#4a9a5f"><animate attributeName="width" from="0" to="24" begin="0.72s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.75 0.25 1"/></rect>
+      <text x="720" y="664" text-anchor="end" fill="#24292f">5%</text>
+      <text x="32" y="690" fill="#57606a">Transcriptomics</text>
+      <rect x="200" y="677" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
+      <rect x="200" y="677" width="0" height="18" rx="9" fill="#4a9a5f"><animate attributeName="width" from="0" to="24" begin="0.84s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.75 0.25 1"/></rect>
+      <text x="720" y="690" text-anchor="end" fill="#24292f">5%</text>
+      <text x="32" y="716" fill="#57606a">Proteomics</text>
+      <rect x="200" y="703" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
+      <rect x="200" y="703" width="0" height="18" rx="9" fill="#4a9a5f"><animate attributeName="width" from="0" to="24" begin="0.96s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.75 0.25 1"/></rect>
+      <text x="720" y="716" text-anchor="end" fill="#24292f">5%</text>
+      <text x="32" y="742" fill="#57606a">Metabolomics</text>
+      <rect x="200" y="729" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
+      <rect x="200" y="729" width="0" height="18" rx="9" fill="#4a9a5f"><animate attributeName="width" from="0" to="240" begin="1.08s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.75 0.25 1"/></rect>
+      <text x="720" y="742" text-anchor="end" fill="#24292f">50%</text>
+      <text x="32" y="768" fill="#57606a">Exposomics</text>
+      <rect x="200" y="755" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
+      <rect x="200" y="755" width="0" height="18" rx="9" fill="#4a9a5f"><animate attributeName="width" from="0" to="168" begin="1.20s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.75 0.25 1"/></rect>
+      <text x="720" y="768" text-anchor="end" fill="#24292f">35%</text>
     </g>
   </g>
 </svg>
