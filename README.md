@@ -12,8 +12,8 @@
 - In my free time, I love experimenting with data visualization or getting lost in 3D modeling with Blender. It’s a fun way to mix creativity with tech! You can check out some of my 3D artwork [here](https://guanhaibin.github.io/hobbies/)!
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haibin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haibin-guan/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Haibin-red?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=5TakQ14AAAAJ&hl=en&oi=ao)
-[![website](https://img.shields.io/badge/Homepage-Haibin-lightblue?&style=square&logo=Google-Chrome&logoColor=white&link=https://guanhaibin.github.io/home/)](https://guanhaibin.github.io/home/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haibin-4AC26B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haibin-guan/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Haibin-4AC26B?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=5TakQ14AAAAJ&hl=en&oi=ao)
+[![website](https://img.shields.io/badge/Homepage-Haibin-4AC26B?&style=square&logo=Google-Chrome&logoColor=white&link=https://guanhaibin.github.io/home/)](https://guanhaibin.github.io/home/)
 
 
