@@ -3,8 +3,7 @@
 <img src="img/profile.SVG" width="100">
 
 
-
-<img src="img/skills.SVG" width="1300"> 
+{% include skills-card.html %}
 
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guanhaibin&theme=github-compact)](https://github.com/guanhaibin/github-readme-activity-graph)
 
