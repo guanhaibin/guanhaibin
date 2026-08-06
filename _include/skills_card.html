@@ -1,1 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Haibin — skills card</title>
+<style>
+  body{margin:0;padding:40px 16px;background:#eef0f3;}
+</style>
+</head>
+<body>
 
+<div id="hb-skills">
+<style>
+  #hb-skills{max-width:1000px;margin:0 auto;background:#ffffff;border:1px solid #e3e6ea;border-radius:0px;padding:26px 30px;
+    font-family:-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:#1f242c;box-sizing:border-box}
+  #hb-skills *{box-sizing:border-box}
+  #hb-skills .hb-top{padding-bottom:16px;border-bottom:1px solid #e8eaee}
+  #hb-skills .hb-head{display:flex;align-items:center;gap:12px}
+  #hb-skills .hb-name{font-size:28px;font-weight:500;color:#1b1f28}
+  #hb-skills .hb-pro{font-size:13.5px;color:#3f8a52;background:#e9f4ec;border-radius:12px;padding:4px 12px}
+  #hb-skills .hb-bio{margin:10px 0 0;font-size:14.5px;font-style:italic;color:#57606a;line-height:1.5}
+  #hb-skills .hb-bio a{color:#4a9a5f;text-decoration:none}
+  #hb-skills .hb-bio a:hover{text-decoration:underline}
+  #hb-skills .hb-label{font-size:12px;letter-spacing:1.6px;color:#6e7781;margin:20px 0 10px;display:flex;justify-content:space-between;align-items:center}
+  #hb-skills .hb-legend{display:flex;align-items:center;gap:6px;letter-spacing:0}
+  #hb-skills .hb-dot{width:8px;height:8px;border-radius:50%;background:#4a9a5f;display:inline-block}
+  #hb-skills .hb-row{display:flex;flex-wrap:wrap;gap:8px}
+  #hb-skills .chip{display:inline-block;font-size:14.5px;color:#24292f;background:#f0f2f5;border:1px solid transparent;border-radius:14px;
+    padding:5px 14px;text-decoration:none;cursor:pointer;line-height:1.2;
+    transition:transform .15s ease,background .15s ease,border-color .15s ease,box-shadow .15s ease}
+  #hb-skills .chip:hover{transform:translateY(-2px);background:#e7ebef;border-color:#4a9a5f;box-shadow:0 4px 12px rgba(0,0,0,.12);text-decoration:none}
+  #hb-skills .chip.focus{background:#4a9a5f;color:#ffffff;font-weight:500}
+  #hb-skills .chip.focus:hover{background:#57ab6d;border-color:#bfe3c9}
+  #hb-skills .hb-fun{background:#f5f7f9;border-radius:10px;padding:14px 18px 14px 20px;margin-top:2px;
+    border-left:4px solid #b0a598;font-family:Georgia,'Times New Roman',serif;font-style:italic;font-size:14.5px;color:#3a4048;line-height:1.5}
+  #hb-skills .hb-weak{font-size:13.5px;color:#768390;margin-top:16px}
+  #hb-skills .hb-hr{border:none;border-top:1px solid #e8eaee;margin:22px 0}
+  #hb-skills .hb-h{font-size:15px;font-weight:500;color:#1b1f28;margin:0 0 12px}
+  #hb-skills .bar-row{display:flex;align-items:center;gap:14px;margin:8px 0;font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace;font-size:14px}
+  #hb-skills .bar-lab{flex:0 0 150px;color:#57606a}
+  #hb-skills .bar-track{flex:1;height:18px;background:#eef0f3;border:1px solid #dfe2e7;border-radius:9px;overflow:hidden}
+  #hb-skills .bar-fill{display:block;height:100%;background:#4a9a5f;border-radius:9px;width:var(--w);min-width:2px;
+    transition:filter .15s ease;animation:hb-grow 1s ease}
+  #hb-skills .bar-row:hover .bar-fill{filter:brightness(1.12)}
+  #hb-skills .bar-pct{flex:0 0 40px;text-align:right;color:#24292f}
+  @keyframes hb-grow{from{width:0}to{width:var(--w)}}
+  @media(max-width:520px){#hb-skills .bar-lab{flex:0 0 110px}}
+</style>
+
+  <div class="hb-top">
+    <div class="hb-head">
+      <span class="hb-name">I'm Haibin</span>
+      <span class="hb-pro">she / her</span>
+    </div>
+    <p class="hb-bio">I'm a Computational Biologist working at the <a href="https://www.petrickexposomelab.com/">PRIME</a> Lab at Icahn School of Medicine at Mount Sinai in NYC.</p>
+  </div>
+
+  <div class="hb-label">CODE</div>
+  <div class="hb-row">
+    <a class="chip" href="#">R</a><a class="chip" href="#">HTML</a><a class="chip" href="#">CSS</a>
+    <a class="chip" href="#">Python</a><a class="chip" href="#">MATLAB</a>
+  </div>
+
+  <div class="hb-label">ASK ME ABOUT</div>
+  <div class="hb-row">
+    <a class="chip" href="#">Multi-Omics Data Analysis</a><a class="chip" href="#">Data Visualization</a>
+    <a class="chip" href="#">3D Modeling</a><a class="chip" href="#">Shiny App Design</a>
+  </div>
+
+  <div class="hb-label">OMICS DATA<span class="hb-legend"><span class="hb-dot"></span>current focus</span></div>
+  <div class="hb-row">
+    <a class="chip focus" href="#">Metabolomics</a><a class="chip" href="#">Proteomics</a>
+    <a class="chip focus" href="#">Exposomics</a><a class="chip" href="#">Transcriptomics</a>
+  </div>
+
+  <div class="hb-label">SHINY APPS</div>
+  <div class="hb-row">
+    <a class="chip app" href="#">WorklistsGenerator</a><a class="chip app" href="#">BatCheck</a>
+  </div>
+
+  <div class="hb-label">FUN FACT</div>
+  <div class="hb-fun">Tiny molecules make a big difference. Genomics tells you what you might have, while metabolomics tells you what you do have.</div>
+
+  <div class="hb-weak">Weakness — multitasking</div>
+
+  <hr class="hb-hr">
+
+  <p class="hb-h">I love working in the early morning</p>
+  <div class="bar-row"><span class="bar-lab">6:00 – 11:00 AM</span><span class="bar-track"><span class="bar-fill" style="--w:70%"></span></span><span class="bar-pct">70%</span></div>
+  <div class="bar-row"><span class="bar-lab">12:00 – 16:00 PM</span><span class="bar-track"><span class="bar-fill" style="--w:20%"></span></span><span class="bar-pct">20%</span></div>
+  <div class="bar-row"><span class="bar-lab">16:00 – 21:00 PM</span><span class="bar-track"><span class="bar-fill" style="--w:10%"></span></span><span class="bar-pct">10%</span></div>
+
+  <p class="hb-h" style="margin-top:22px">Multi-omics current focus</p>
+  <div class="bar-row"><span class="bar-lab">Genomics</span><span class="bar-track"><span class="bar-fill" style="--w:5%"></span></span><span class="bar-pct">5%</span></div>
+  <div class="bar-row"><span class="bar-lab">Transcriptomics</span><span class="bar-track"><span class="bar-fill" style="--w:5%"></span></span><span class="bar-pct">5%</span></div>
+  <div class="bar-row"><span class="bar-lab">Proteomics</span><span class="bar-track"><span class="bar-fill" style="--w:5%"></span></span><span class="bar-pct">5%</span></div>
+  <div class="bar-row"><span class="bar-lab">Metabolomics</span><span class="bar-track"><span class="bar-fill" style="--w:50%"></span></span><span class="bar-pct">50%</span></div>
+  <div class="bar-row"><span class="bar-lab">Exposomics</span><span class="bar-track"><span class="bar-fill" style="--w:35%"></span></span><span class="bar-pct">35%</span></div>
+</div>
+
+</body>
+</html>
