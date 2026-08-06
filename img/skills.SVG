@@ -27,12 +27,12 @@
     </g>
 
     <text x="32" y="224" font-size="11" letter-spacing="1.6" fill="#8b88a0">OMICS DATA</text>
-    <circle cx="612" cy="220" r="4" fill="#aceebb"/>
+    <circle cx="612" cy="220" r="4" fill="#4AC26B"/>
     <text x="624" y="224" font-size="11" fill="#8b88a0">current focus</text>
     <g font-size="13.5">
-      <rect x="32" y="234" width="120" height="28" rx="14" fill="#aceebb"/><text x="92" y="252" text-anchor="middle" fill="#182229" font-weight="500">Metabolomics</text>
+      <rect x="32" y="234" width="120" height="28" rx="14" fill="#4AC26B"/><text x="92" y="252" text-anchor="middle" fill="#182229" font-weight="500">Metabolomics</text>
       <rect x="160" y="234" width="102" height="28" rx="14" fill="#f5f7f9"/><text x="211" y="252" text-anchor="middle" fill="#3f4a52">Proteomics</text>
-      <rect x="270" y="234" width="110" height="28" rx="14" fill="#aceebb"/><text x="325" y="252" text-anchor="middle" fill="#182229" font-weight="500">Exposomics</text>
+      <rect x="270" y="234" width="110" height="28" rx="14" fill="#4AC26B"/><text x="325" y="252" text-anchor="middle" fill="#182229" font-weight="500">Exposomics</text>
       <rect x="388" y="234" width="140" height="28" rx="14" fill="#f5f7f9"/><text x="458" y="252" text-anchor="middle" fill="#3f4a52">Transcriptomics</text>
     </g>
 
@@ -56,17 +56,17 @@
     <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13">
       <text x="32" y="532" fill="#5c6870">6:00 – 11:00 AM</text>
       <rect x="200" y="519" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
-      <rect x="200" y="519" width="336" height="18" rx="9" fill="#aceebb"/>
+      <rect x="200" y="519" width="336" height="18" rx="9" fill="#4AC26B"/>
       <text x="720" y="532" text-anchor="end" fill="#3f4a52">70%</text>
 
       <text x="32" y="558" fill="#5c6870">12:00 – 16:00 PM</text>
       <rect x="200" y="545" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
-      <rect x="200" y="545" width="96" height="18" rx="9" fill="#aceebb"/>
+      <rect x="200" y="545" width="96" height="18" rx="9" fill="#4AC26B"/>
       <text x="720" y="558" text-anchor="end" fill="#3f4a52">20%</text>
 
       <text x="32" y="584" fill="#5c6870">16:00 – 21:00 PM</text>
       <rect x="200" y="571" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
-      <rect x="200" y="571" width="48" height="18" rx="9" fill="#aceebb"/>
+      <rect x="200" y="571" width="48" height="18" rx="9" fill="#4AC26B"/>
       <text x="720" y="584" text-anchor="end" fill="#3f4a52">10%</text>
     </g>
 
@@ -74,27 +74,27 @@
     <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13">
       <text x="32" y="648" fill="#5c6870">Genomics</text>
       <rect x="200" y="635" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
-      <rect x="200" y="635" width="24" height="18" rx="9" fill="#aceebb"/>
+      <rect x="200" y="635" width="24" height="18" rx="9" fill="#4AC26B"/>
       <text x="720" y="648" text-anchor="end" fill="#3f4a52">5%</text>
 
       <text x="32" y="674" fill="#5c6870">Transcriptomics</text>
       <rect x="200" y="661" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
-      <rect x="200" y="661" width="24" height="18" rx="9" fill="#aceebb"/>
+      <rect x="200" y="661" width="24" height="18" rx="9" fill="#4AC26B"/>
       <text x="720" y="674" text-anchor="end" fill="#3f4a52">5%</text>
 
       <text x="32" y="700" fill="#5c6870">Proteomics</text>
       <rect x="200" y="687" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
-      <rect x="200" y="687" width="24" height="18" rx="9" fill="#aceebb"/>
+      <rect x="200" y="687" width="24" height="18" rx="9" fill="#4AC26B"/>
       <text x="720" y="700" text-anchor="end" fill="#3f4a52">5%</text>
 
       <text x="32" y="726" fill="#5c6870">Metabolomics</text>
       <rect x="200" y="713" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
-      <rect x="200" y="713" width="240" height="18" rx="9" fill="#aceebb"/>
+      <rect x="200" y="713" width="240" height="18" rx="9" fill="#4AC26B"/>
       <text x="720" y="726" text-anchor="end" fill="#3f4a52">50%</text>
 
       <text x="32" y="752" fill="#5c6870">Exposomics</text>
       <rect x="200" y="739" width="480" height="18" rx="9" fill="#eef0f3" stroke="#dfe2e7" stroke-width="1"/>
-      <rect x="200" y="739" width="168" height="18" rx="9" fill="#aceebb"/>
+      <rect x="200" y="739" width="168" height="18" rx="9" fill="#4AC26B"/>
       <text x="720" y="752" text-anchor="end" fill="#3f4a52">35%</text>
     </g>
   </g>
