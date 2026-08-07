@@ -1,7 +1,7 @@
-<svg viewBox="0 0 760 780" width="760" height="780" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg viewBox="0 0 760 790" width="760" height="790" xmlns="http://www.w3.org/2000/svg" role="img">
   <title>Haibin — skills card</title>
   <desc>Animated profile card: pronouns, bio, code, expertise, omics focus, Shiny apps, a fun fact, and bar charts for working hours and multi-omics focus.</desc>
-  <rect x="8" y="8" width="744" height="784" fill="#ffffff" stroke="#e3e6ea" stroke-width="1"/>
+  <rect x="8" y="8" width="744" height="776" fill="#ffffff" stroke="#e3e6ea" stroke-width="1"/>
   <g font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0s" dur="0.6s" fill="freeze"/>
     <text x="32" y="48" font-size="27" font-weight="500" fill="#1b1f28">I'm Haibin</text>
