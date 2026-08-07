@@ -7,7 +7,7 @@
     <text x="32" y="48" font-size="27" font-weight="500" fill="#1b1f28">I'm Haibin</text>
     <rect x="188" y="30" width="86" height="23" rx="11.5" fill="#e9f4ec"/>
     <text x="231" y="46" font-size="12.5" fill="#3f8a52" text-anchor="middle">she / her</text>
-    <text x="32" y="74" font-size="14" font-style="italic" fill="#57606a">I'm a Computational Biologist working at the <tspan fill="#4a9a5f" font-style="normal">PRIME</tspan> Lab at Icahn School of Medicine at Mount Sinai in NYC.</text>
+    <text x="32" y="90" font-size="14" font-style="italic" fill="#57606a">I'm a Computational Biologist working at the <tspan fill="#4a9a5f" font-style="normal">PRIME</tspan> Lab at Icahn School of Medicine at Mount Sinai in NYC.</text>
     <line x1="32" y1="110" x2="728" y2="110" stroke="#e8eaee" stroke-width="1"/>
     <text x="32" y="138" font-size="11" letter-spacing="1.6" fill="#6e7781">CODE</text>
     <g font-size="13.5">
